@@ -4,7 +4,7 @@ I'm a published author, speaker, and lover of code.
 
 - 🔭 I’m currently working on HMRC Platform
 - 🌱 I’m currently learning Italian
-- 👯 I’m looking to collaborate on skin catalog: <https://skin-catalog.com>
+- 👯 I’m looking to buy businesses - <https://www.deltafamiglia.com>
 - 💬 Ask me about DevOps and cloud infrastructure
 - 📫 How to reach me: neil <at> neilmillard <dot> com
 - 😄 Pronouns: Geek, Dry Humour, Moody

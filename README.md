@@ -3,8 +3,8 @@
 I'm a published author, speaker, and lover of code.
 
 - 🔭 I’m currently working on HMRC Platform
-- 🌱 I’m currently learning Italian
-- 👯 I’m looking to help businesses with DevOps training and best practice
+- 🌱 I’m currently learning Golang and Spanish
+- 👯 I’m looking to help engineers get paid what they deserve with DevOps training and best practice
 - 💬 Ask me about DevOps and cloud infrastructure
 - 📫 How to reach me: neil <at> neilmillard <dot> com
 - 😄 Pronouns: Geek, Dry Humour, Moody

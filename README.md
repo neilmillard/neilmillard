@@ -4,7 +4,7 @@ I'm a published author, speaker, and lover of code.
 
 - 🔭 I’m currently working on HMRC Data Analysis Platform
 - 🌱 I’m currently learning React/Vue and Spanish
-- 👯 I’m looking to help engineers get paid what they deserve <https://www.confident-contractor.co.uk> with training and best practice
+- 👯 I’m looking to help engineers get paid what they deserve <https://www.techanswers.club> with training and best practice
 - 🎥 I have a Youtube channel [@confidentcontractor](https://www.youtube.com/@confidentcontractor)
 - 💬 Ask me about DevOps and cloud infrastructure
 - 📫 How to reach me: neil <at> neilmillard <dot> com
